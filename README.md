@@ -2,8 +2,8 @@
 Go system signals package
 
 ## Install
-go get github.com:gotrics/gossig
+go get github.com/gotrics/gossig
 
 ## Usage
-See github.com:gotrics/gossig/example
+See github.com/gotrics/gossig/example
 
